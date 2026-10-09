@@ -2,6 +2,8 @@
 
 Engineering study platform with spaced-repetition flashcards, AI quizzes, and exam prep.
 
+> **Requires Ollama to run locally.** The live demo is deployed but AI features (quizzes, topic summaries, AI chat) will not work without [Ollama](https://ollama.com) running on the same machine. Flashcards, progress tracking, and the feed work without it.
+
 ## Features
 
 - **Flashcards** — FSRS spaced-repetition algorithm with 20 predefined engineering topics (PID control, Kubernetes, hydraulic systems, and more)
